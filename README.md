@@ -1,4 +1,5 @@
 🛍️ Retail Sales Exploratory Data Analysis (EDA)
+
 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset to uncover customer behavior, product performance, and revenue trends.
